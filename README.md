@@ -164,9 +164,8 @@ RailwayBookingSystem
 
 ![Duplicate Booking Prevention](screenshots/duplicate-booking.png)
 
-### Database Schema
 
-![Database Schema](screenshots/database-schema.png)
+
 
 ---
 
